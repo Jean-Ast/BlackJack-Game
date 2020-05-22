@@ -58,9 +58,12 @@ innerHTML:Agrega etiquetas html
 
 *Callback*: Funcion que se manda como argumento
 
+*Patron modulo*
+Es el patron más utilizado en JS porque nos sirve para encapsular nuestro código, es decir ponerle seguridad
 
+_'use string'_ Nos sirve para que JS evalue mi programa de forma estricta, nos ayuda a evitar errores
 
-
+ Funcion anonima autoinvocadas: No es posible llamarlo directamente porque está ubicado en un lugar en memoria que no tiene identificador por nombre
 
 
 
